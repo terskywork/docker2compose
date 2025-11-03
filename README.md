@@ -13,15 +13,6 @@
 
 理论上所有NAS都可以用，但是有些特意删除的功能，比如命令、性能限制、endpiont等，由于极空间不支持，所以删除了。
 
-# 我的仓库
-
-**1️⃣** ： 中文docker项目集成项目： [https://github.com/coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn)
-
-**2️⃣** ： docker转compose：[https://github.com/coracoo/docker2compose](https://github.com/coracoo/docker2compose)
-
-**3️⃣** ： 容器部署iSCSI，支持绿联极空间飞牛：[https://github.com/coracoo/d-tgtadm/](https://github.com/coracoo/d-tgtadm/)
-
-**4️⃣** ： 容器端口检查工具： [https://github.com/coracoo/DockPorts/](https://github.com/coracoo/DockPorts)
 
 
 -------------------------------------
