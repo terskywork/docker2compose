@@ -23,15 +23,6 @@
 
 **4️⃣** ： 容器端口检查工具： [https://github.com/coracoo/DockPorts/](https://github.com/coracoo/DockPorts)
 
-# 我的频道
-
-### 首发平台——什么值得买：
-
-### [⭐点我关注](https://zhiyou.smzdm.com/member/9674309982/) 
-
-### 微信公众号：
-
-![关注](https://github.com/user-attachments/assets/9a1c4de0-2f08-413f-ab7f-d7d463af1698)
 
 -------------------------------------
 
